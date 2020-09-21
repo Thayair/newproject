@@ -1,0 +1,58 @@
+.body{
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fig{
+    position: relative;
+    bottom:5px;
+    left: 4px;
+}
+.h4{
+    color: blueviolet;
+}
+
+.fa-bezier-curve{
+    color: rebeccapurple;
+    font-size: 5em  !important;
+
+}
+
+.fa-uniregistry{
+    color: white;
+    font-size: 5em  !important;
+}
+
+.fa-question-circle {
+    color: rebeccapurple;
+    font-size: 5em  !important;
+}
+
+.fa-user-circle{
+    color: rebeccapurple;
+    font-size: 1.4em  !important;
+    
+
+}
+
+.col-ms-4{
+    
+  
+    background-color: white;
+}
+
+.fa-ellipsis-h{
+    font-size: 3em  !important;
+color: rebeccapurple;
+position: relative;
+    left: 500px;
+}
+
+
+.fa-quote-right{
+    position: relative;
+    left: 500px;
+    font-size: 3em  !important;
+    color: rebeccapurple;
+}
+
+   
